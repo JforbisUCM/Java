@@ -1,0 +1,12 @@
+canine
+ScrappyJoe
+true
+112
+tiger
+Hobbes
+true
+425
+lion
+Scar
+false
+600
