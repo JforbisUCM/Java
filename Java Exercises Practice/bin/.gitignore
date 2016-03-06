@@ -8,3 +8,9 @@
 /circle.class
 /Scaleable.class
 /ScaleableCircle.class
+/Card.class
+/IDcard.class
+/CallingCard.class
+/DriverLicense.class
+/BillFold.class
+/BillfoldTester.class

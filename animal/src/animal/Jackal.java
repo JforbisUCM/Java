@@ -1,9 +1,10 @@
 package animal;
 
-public class Dog {
+public class Jackal {
  String sound;
- public Dog(){
-	 sound = "bark";
+ 
+ public Jackal(){
+	 sound = "heehee";
  }
  
  public String toString(){
