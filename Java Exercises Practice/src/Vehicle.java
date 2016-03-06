@@ -31,7 +31,7 @@ public int getSpeed(){
 
 public String toString(){
 	
-	return wheels + " wheels" + speed + " max speed";
+	return wheels + " wheels, " +  speed + "mph max speed";
 }
 
 

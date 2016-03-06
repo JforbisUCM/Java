@@ -25,7 +25,7 @@ public int getGears(){
 	
 
 public String toString(){
-	return super.toString() + ", number of gears" + gears;
+	return super.toString() + ", number of gears " + gears;
 }
 }
 
