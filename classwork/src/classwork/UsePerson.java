@@ -9,7 +9,7 @@ public class UsePerson {
      name = args[0];
      int age = Integer.parseInt(args[1]);
      try {
-         p = new Person(name, age);
+         p = new Person(name, age);//requires arguments to be given in the debug
      }
      catch(InvalidDataException e) {
          System.err.println(e.getMessage());

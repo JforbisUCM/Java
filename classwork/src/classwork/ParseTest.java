@@ -8,8 +8,8 @@ public class ParseTest {
 		NumberFormat format = NumberFormat.getCurrencyInstance();
 		String s;
 		Number num;
-		//s = "$45.67";
-		s = "hi mom";
+		s = "$45.67";
+		//s = "hi mom";
 		
 		try{
 				num = format.parse(s); // may generate exception
