@@ -16,4 +16,7 @@ public String format(){
 public String getCardNumber(){
 	return cardNumber;
 }
+public String toString(){
+	return "CallingCard: name = " + getName() + ", Card Number: "+ cardNumber + ", pin: " + pin;
+}
 }

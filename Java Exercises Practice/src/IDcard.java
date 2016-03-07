@@ -14,4 +14,7 @@ public String getID(){
 	return id;
 }
 
+public String toString(){
+	return "IDcard: name: " + getName() + ", ID: "+ id;
+}
 }

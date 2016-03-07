@@ -26,4 +26,7 @@ public class Card
    {
       return "Card holder: " + name;
    }
+   public String toString(){
+	   return "Card: " + name;
+   }
 }

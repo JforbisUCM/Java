@@ -28,5 +28,7 @@ public boolean isExpired(){
 public int getExpYear(){
 	return expirationYear;
 }
-
+public String toString(){
+	return "Driverlicense: name: "+ getName() + ", ID: " + getID() + ", Expiration Year: "+ expirationYear;
+}
 }
